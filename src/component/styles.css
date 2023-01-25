@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.heading{
+    display:flex;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(211, 103, 103);
+}
+.TableHead{
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+padding-top: 20px;
+
+}
+th,td{
+    border: 2px solid black;
+   padding: 10px;
+   font-weight: 500;
+
+}
+table{
+    border: 2px solid black;
+    
+}
+.column1{
+    color:rgb(233, 173, 9)
+}
+.column2{
+    color: blue;
+}
+.column3{
+    color:green
+}
